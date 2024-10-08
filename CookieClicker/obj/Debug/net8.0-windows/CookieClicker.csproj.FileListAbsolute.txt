@@ -1,0 +1,17 @@
+E:\learning\dotnet\CookieClicker\CookieClicker\bin\Debug\net8.0-windows\CookieClicker.exe
+E:\learning\dotnet\CookieClicker\CookieClicker\bin\Debug\net8.0-windows\CookieClicker.deps.json
+E:\learning\dotnet\CookieClicker\CookieClicker\bin\Debug\net8.0-windows\CookieClicker.runtimeconfig.json
+E:\learning\dotnet\CookieClicker\CookieClicker\bin\Debug\net8.0-windows\CookieClicker.dll
+E:\learning\dotnet\CookieClicker\CookieClicker\bin\Debug\net8.0-windows\CookieClicker.pdb
+E:\learning\dotnet\CookieClicker\CookieClicker\obj\Debug\net8.0-windows\CookieClicker.Clicker.resources
+E:\learning\dotnet\CookieClicker\CookieClicker\obj\Debug\net8.0-windows\CookieClicker.csproj.GenerateResource.cache
+E:\learning\dotnet\CookieClicker\CookieClicker\obj\Debug\net8.0-windows\CookieClicker.GeneratedMSBuildEditorConfig.editorconfig
+E:\learning\dotnet\CookieClicker\CookieClicker\obj\Debug\net8.0-windows\CookieClicker.AssemblyInfoInputs.cache
+E:\learning\dotnet\CookieClicker\CookieClicker\obj\Debug\net8.0-windows\CookieClicker.AssemblyInfo.cs
+E:\learning\dotnet\CookieClicker\CookieClicker\obj\Debug\net8.0-windows\CookieClicker.csproj.CoreCompileInputs.cache
+E:\learning\dotnet\CookieClicker\CookieClicker\obj\Debug\net8.0-windows\CookieClicker.dll
+E:\learning\dotnet\CookieClicker\CookieClicker\obj\Debug\net8.0-windows\refint\CookieClicker.dll
+E:\learning\dotnet\CookieClicker\CookieClicker\obj\Debug\net8.0-windows\CookieClicker.pdb
+E:\learning\dotnet\CookieClicker\CookieClicker\obj\Debug\net8.0-windows\CookieClicker.genruntimeconfig.cache
+E:\learning\dotnet\CookieClicker\CookieClicker\obj\Debug\net8.0-windows\ref\CookieClicker.dll
+E:\learning\dotnet\CookieClicker\CookieClicker\obj\Debug\net8.0-windows\CookieClicker.Properties.Resources.resources

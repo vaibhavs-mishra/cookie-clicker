@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>CookieClicker</id>
+    <version>1.0.0</version>
+    <authors>CookieClicker</authors>
+    <description>Package Description</description>
+    <repository type="git" />
+    <dependencies>
+      <group targetFramework="net8.0-windows7.0" />
+    </dependencies>
+    <frameworkReferences>
+      <group targetFramework="net8.0-windows7.0">
+        <frameworkReference name="Microsoft.WindowsDesktop.App.WindowsForms" />
+      </group>
+    </frameworkReferences>
+  </metadata>
+  <files>
+    <file src="E:\learning\dotnet\CookieClicker\CookieClicker\bin\Debug\net8.0-windows\CookieClicker.runtimeconfig.json" target="lib\net8.0-windows7.0\CookieClicker.runtimeconfig.json" />
+    <file src="E:\learning\dotnet\CookieClicker\CookieClicker\bin\Debug\net8.0-windows\CookieClicker.dll" target="lib\net8.0-windows7.0\CookieClicker.dll" />
+  </files>
+</package>
